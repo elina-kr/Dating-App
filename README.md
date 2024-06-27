@@ -59,6 +59,5 @@ My LinkedIn: [https://www.linkedin.com/in/elina-krs/](https://www.linkedin.com/i
 
 ## Repository Contents
 
-- `Dating_app/`: Jupyter notebooks with detailed analysis.
-- `data/`: Sample dataset used for analysis.
-- `reports/`: Final analytical report.
+- `Dating_app`: Jupyter notebooks with detailed analysis.
+- `reports`: Final analytical report.
